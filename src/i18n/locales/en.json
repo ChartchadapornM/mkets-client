@@ -1,0 +1,7 @@
+{
+  "appName": "Mkets",
+  "loginButton": "Login",
+  "auth":{
+    "loginTitle": "Login"
+  }
+}
